@@ -1,0 +1,52 @@
+{
+    "jogos": [
+        {
+            "id": "1",
+            "titulo": "Minecraft",
+            "genero": "Sandbox",
+            "plataforma": "Pc",
+            "nota": 9,
+            "status": "Jogando"     
+        },
+  {
+     "id": "2",
+            "titulo": "GTA V",
+            "genero": "Acao",
+            "plataforma": "PlayStation",
+            "nota": 10,
+            "status": "Finalizado"
+  },
+  {
+     "id": "3",
+            "titulo": "Forza Horizon 5",
+            "genero": "Corrida",
+            "plataforma": "Xbox",
+            "nota": 8,
+            "status": "Quero jogar"
+  },
+  {
+     "id": "4",
+            "titulo": "Fifa 25",
+            "genero": "Esporte",
+            "plataforma": "PlayStation",
+            "nota": 8,
+            "status": "Jogando"
+  },
+  {
+     "id": "5",
+            "titulo": "Hollow Knight",
+            "genero": "Metroidvania",
+            "plataforma": "Pc",
+            "nota": 10,
+            "status": "Finalizado"
+  },
+  {
+     "id": "6",
+            "titulo": "Read Dead Redemption 2",
+            "genero": "Acao",
+            "plataforma": "Xbox",
+            "nota": 10,
+            "status": "Quero jogar"
+      } 
+   ]
+}
